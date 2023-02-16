@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/meryemtoulali/meryemtoulali/main/gitbanner.jpg)
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=meryemtoulali&show_icons=true&locale=en&layout=compact&theme=outrun" alt="meryemtoulali" /></p>
+<p><img align="right" src="https://github-readme-stats-meryemtoulali.vercel.app/api/top-langs?username=meryemtoulali&show_icons=true&locale=en&layout=compact&theme=outrun" alt="meryemtoulali" /></p>
 
 
 - 🔭 Not only can I dream up cool designs, but I can build them as well :)
