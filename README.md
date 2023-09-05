@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 Not only can I dream up cool designs, but I can build them as well :)
 
-- 🌱 Currently learning **Laravel**
+- 🌱 Currently learning **Angular**
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-toulali.mt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:toulali.mt@gmail.com)](mailto:toulali.mt@gmail.com)
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Coding :</h4>
 <p align="left">  
-  
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
